@@ -1,0 +1,93 @@
+1. SARC Database Project
++ Create a doc listing requirements
++ Create a database schema
++ Create a flow chart and all pages list
++ Discuss with Gelli Tushar about language to use
++ Begin to work on it by 17th December
+- List of APIs to be built
+- Meeting with Interested students
+- A form for Alumni coming to institute
+- Completion of backend work by 14th January
+
+2. Wintern
++ Understand Business Model of AdExchange
++ Facebook Page Review
+- IOS App Review Page by Page
++ Create AdExchange Platform Documentation
++ Create AdExchange Platform Schema
++ Learn Django
++ Create List of APIs required
+- Create Backend
+- Create Frontend
+
+3. Ganesh Ramakrishnan Research
++ Study about three different problems available
++ Select one of them
++ Email Sir and Vishwajeet about them
+- Start working on Interactive Hierarchial Clustering
+- Get papers from Pankaj to read
+- Prepare a presentation on papers read
+
+4. Resonance Visit
+- Visit Sir
+- Collect Money
+
+5. Books
+- If tomorrow comes
++ Sorry, you're not my type
++ Angels and Demons
+
+6. Mom BDay
++ Buy RedMi1S
+
+7. Save money
+
+8. Mumbai Trips
+- Morning Marine Drive
+- Elephanta Caves
+- Crawford Market, Bhuleshwar, Chor Bazaar
+- Esplanade Park
+- Priyadarshini Park
+- Flora Fountain
+- Rajabai Clock Tower
+- Breach Candy
+- CR2 Mall
+- Colaba Causeway
+- Heera Panna Market
+- Manish Market
+- Asiatic Library
+- Aga Brothers
+- Ayubs
+- Crystal
+- Brittania and Co.
+- Swati Snacks
+- Samovar
+- Pancham Puriwaala
+- Bhagat Tara Chand
+- Cafe Leopold    
+
+9. Trupti/Tamanna Di BDay Surprise Plan
++ Website (Both)
+
+10. Movies
++ Dumb and Dumber
+- Before Sunrise
+- The Notebook
+- LOTR Series
+- How to train your dragons series
+
+11. Poems
+Jinke dil sameep hote hai 
+wahi dur jaata hai
+Ghussa ussi pe aata hai 
+jis se koi naata hai
+
+Surat se kirat badhi
+Bina pankh ud jaaye
+Surat toh jaati rahi
+Kirat kabhi na jaaye
+
+Kaga kiska dhan hare
+Koyal kako de
+Madhura vachan k kaarya main
+Jag apna karein
